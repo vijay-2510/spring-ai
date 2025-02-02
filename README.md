@@ -12,7 +12,7 @@ This Spring Boot application demonstrates:
 
 ## Project Requirements
 
-- Java 17 or higher
+- Java 23 or higher
 - Spring Boot 3.x
 - Spring AI dependencies
 - DeepSeek API key
